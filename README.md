@@ -1,4 +1,7 @@
-# api documentation for  [jira-connector (v2.6.0)](https://github.com/floralvikings/jira-connector#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jira-connector.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jira-connector) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jira-connector.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jira-connector)
+# npmdoc-jira-connector
+
+#### api documentation for  [jira-connector (v2.6.0)](https://github.com/floralvikings/jira-connector#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jira-connector.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jira-connector) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jira-connector.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jira-connector)
+
 #### Easy to use NodeJS wrapper for the Jira REST API.
 
 [![NPM](https://nodei.co/npm/jira-connector.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jira-connector)
@@ -58,7 +61,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.6.0"
+    "version": "2.6.0",
+    "bin": {}
 }
 ```
 
